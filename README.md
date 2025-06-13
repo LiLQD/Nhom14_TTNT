@@ -17,4 +17,5 @@
 ## Công nghệ sử dụng
 - Python
 - OpenCV
-- scikit-learn
+- Scikit-learn
+- Tensorflow
